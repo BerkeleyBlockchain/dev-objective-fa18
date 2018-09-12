@@ -1,4 +1,3 @@
-![alt text](https://github.com/spectreweb/front-end-challenge/blob/master/banner_dark.png?raw=true)
 # Back-End Developer Challenge
 ## Introduction
 Welcome to the Blockchain at Berkeley objective task for Back-End Developers. If you are a full-stack developer, you will also want to complete the front-end task, which can be found here: https://github.com/BerkeleyBlockchain/front-end-challenge
@@ -6,7 +5,7 @@ Welcome to the Blockchain at Berkeley objective task for Back-End Developers. If
 By completing (or attempting) both tasks, you get bonus points which can greatly help you in the process.
 
 ## The Tasks
-You are given a number tasks, each worth a varying amount of points corresponding to their respective difficulty. **Your goal is to amass a total of four points to pass the challenge.** This is the point breakdown:
+You are given a number tasks, each worth a varying amount of points corresponding to their respective difficulty. **Your goal is to amass a total of three points to pass the challenge.** This is the point breakdown:
 
 | Task Name          | Point Value   |
 | ------------------ | ------------- |
