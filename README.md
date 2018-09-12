@@ -28,7 +28,7 @@ Upperclassmen, you've probably seen more difficult questions so we hope that the
 ## Submission Instructions
 *DO NOT FORK THIS REPO,* SOLUTIONS THAT ARE PUBLIC WILL BE DISQUALIFED. We ask that you do not share any solutions and work alone.
 
-Instead, zip up the contents of the root of this repo and submit those using a google form: https://goo.gl/forms/D5ypI59B1laP6Yvm2. Only submit completed tasks in the zip.
+Instead, zip up the contents of the root of this repo and submit those using a google form: https://docs.google.com/forms/d/e/1FAIpQLSdYkvaYXmUvYFjqjIulx9wh_jeHgy2A2nWKtBmzF64F_VmD6A/viewform. Only submit completed tasks in the zip.
 
 Do not change or rename the folder structure. We will be running autograders on these and if the format fails then we will not accept them as valid solutions.
 
